@@ -36,8 +36,6 @@ A full-stack AI chat application powered by **OPENAI gpt-4o-mini** with persiste
 * dotenv
 * CORS
 
-PadmeGPT-main\Frontend\src\assets\Homepage.png
-
 ## 📸 Screenshots
 
 | Home                        | Chat                        |
